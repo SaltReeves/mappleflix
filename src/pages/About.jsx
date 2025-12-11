@@ -74,7 +74,7 @@ const About = () => {
               Have questions, suggestions, or feedback? We'd love to hear from you!
             </p>
             <div className="contact-info">
-              <p>🐙 GitHub: <a href="https://github.com/ram122985/streamlab" target="_blank" rel="noopener noreferrer">github.com/ram122985/streamlab</a></p>
+              <p>🐙 Mail: <a href="thestreamlabhub@gmail.com" target="_blank" rel="noopener noreferrer">EMAIL ID</a></p>
             </div>
           </section>
         </div>
