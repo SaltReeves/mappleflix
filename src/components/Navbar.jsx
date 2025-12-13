@@ -61,8 +61,8 @@ const Navbar = ({ onSearch, searchResults, onItemClick, isSearching }) => {
       <div className="navbar-container">
         <Link to="/" className="navbar-logo">
           <img 
-            src="/logo/streamlab-new.png" 
-            alt="StreamLab Logo" 
+            src="/logo/mappleflix-new.png" 
+            alt="mappleflix Logo" 
             className="logo-image"
           />
         </Link>
