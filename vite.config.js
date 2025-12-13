@@ -17,7 +17,7 @@ export default defineConfig(({ mode }) => {
         }
       }),
       Sitemap({ 
-        hostname: 'https://streamlab.pages.dev/',
+        hostname: '',
         dynamicRoutes: [
           '/home',
           '/movies',
