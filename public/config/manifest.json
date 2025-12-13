@@ -11,7 +11,7 @@
 "orientation": "any",
 "icons": [
     {
-        "src": "/logo/mappleflix(512x512).png",
+        "src": "/logo/mappleflix_(512x512).png",
         "sizes": "512x512",
         "type": "image/png",
         "purpose": "any"
