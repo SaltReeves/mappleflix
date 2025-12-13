@@ -1,7 +1,7 @@
 <p align="center">
   <div align="center">
     <a href="https://mappleflix.pages.dev/">
-      <img alt="STREAMLAB" src="https://raw.githubusercontent.com/SaltReeves/mappleflix/refs/heads/main/public/logo/streamlab-new.png" width="220"/>
+      <img alt="MAPPLEFLIX" src="https://raw.githubusercontent.com/SaltReeves/mappleflix/refs/heads/main/public/logo/mappleflix-new.png" width="220"/>
     </a>
   </div>
     <h3 align="center">MappleFlix - Stream Movies & TV Shows</h3>
