@@ -49,7 +49,7 @@ If you want to convert your images into WebP format, read [scripts/README.md](ht
 
 ```bash
 git clone https://github.com/SaltReeves/mappleflix.git
-cd streamlab
+cd mappleflix
 npm install
 ```
 
