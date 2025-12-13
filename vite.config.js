@@ -17,7 +17,7 @@ export default defineConfig(({ mode }) => {
         }
       }),
       Sitemap({ 
-        hostname: '',
+        hostname: 'https://mappleflix.pages.dev/',
         dynamicRoutes: [
           '/home',
           '/movies',
