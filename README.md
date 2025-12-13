@@ -65,7 +65,7 @@ npm run dev
 
 ### Cloudflare (Pages)
 
-Host your own instance of <a href="https://mappleflix.pages.dev/">STREAMLAB</a> on Cloudflare.
+Host your own instance of <a href="https://mappleflix.pages.dev/">MAPPLEFLIX</a> on Cloudflare.
 - Fork this repository.
 - Go to Cloudflare >> Workers and Pages >> Create application >> Pages >> Import an Existing Git Repository
 - Project Name: `mstream or whatever name you want - just make sure to edit wrangler.jsonc`
